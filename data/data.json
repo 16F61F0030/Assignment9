@@ -1,0 +1,95 @@
+{
+  "profiles":[
+    {
+      "id":1,
+      "name":"Roja k",
+      "label":"DBA",
+      "company":"Infosys",
+      "image":"img/pic1.png"
+
+    },
+    {
+      "id":2,
+      "name":"S Nandhini",
+      "label":"Front end",
+      "company":"Polaris",
+      "image":"img/image1.png"
+
+    },
+    {
+      "id":3,
+      "name":"A Bhavani",
+      "label":"Tech-lead",
+      "company":"CA",
+      "image":"img/image5.jpg"
+
+    }
+
+  ],
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+  "education":[
+    {
+          "degree":"MCA(Master Of Computer Applications)",
+          "institute":"Siddharth institute of Engineering & Technology",
+          "data":["2016-19","86%"]
+    },
+    {
+          "degree":"Bsc(MPCs)",
+          "institute":"Sri Chaitanya Junior Acadamics",
+          "data":["2011-14","75%"]
+    },
+    {
+          "degree":"Intermediate(M.P.C)",
+          "institute":"Sri Chaitanya Junior Acadamics",
+          "data":["2009-11","75%"]
+    },
+    {
+          "degree":"S.S.C",
+          "institute":"Sai Srinivasa High School",
+          "data":["2008","76%"]
+    }
+
+  ],
+    "achievements":[
+      {
+          "name":"Got 2d Prize in Singing"
+        },
+        {
+          "name":"I participated in Technology Quiz"
+        },
+        {
+          "name":"I participated in many workshops"
+        },
+        {
+          "name":"I participated as a volunteer in our college Jublition-2k18"
+        }
+
+
+    ],
+    "technical":[
+      {
+        "name":"Pragramming languages",
+        "data":"[C,C++,Java]"
+      },
+      {
+        "name":"Data bases",
+        "data":"[MySql,Oracle]"
+      },
+      {
+        "name":"Web Technologies",
+        "data":"[HTML,Javascript,CSS]"
+      },
+      {
+        "name":"server-side Scripting",
+        "data":"[PHP]"
+      },
+      {
+        "name":"Android Studio",
+        "data":["tool"]
+      }
+
+    ]
+
+}
